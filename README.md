@@ -96,10 +96,4 @@ git push origin YourBranchName
 
 
 
-## All the best! 🥇
 
-<p align="center">
-
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
-
-</p>
